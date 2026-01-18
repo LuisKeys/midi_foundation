@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Run midi_engine.main (midi env)",
+      "type": "python",
+      "request": "launch",
+      "module": "midi_engine.main",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}",
+      "justMyCode": false,
+      "args": [],
+      "python": "/opt/miniconda3/envs/midi/bin/python"
+    }
+  ]
+}

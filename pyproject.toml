@@ -1,0 +1,8 @@
+[project]
+name = "midi_engine"
+version = "0.1.0"
+description = "Foundational Python MIDI engine intended to be portable to C++."
+requires-python = ">=3.11"
+
+[tool.poetry.dev-dependencies]
+# None for now
